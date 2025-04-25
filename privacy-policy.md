@@ -1,6 +1,6 @@
 # Privacy Policy
 
-** Last Updated: April 25, 2025**
+**Last Updated: April 25, 2025**
 
 This app is a personal tool developed to automate email processing using the Gmail API. It is used solely by the
 developer and is not shared with other users.
